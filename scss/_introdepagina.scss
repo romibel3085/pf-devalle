@@ -1,0 +1,12 @@
+section {
+    background-color: #d7c6f1;
+    padding: 30px;
+
+    p {
+        font-family: Verdana, Geneva, Tahoma, sans-serif; 
+        font-size: $tam-navfont - 5px;
+        font-weight: normal;
+        font-style: italic;
+        color: $color-titulo;
+    }
+}

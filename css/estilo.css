@@ -19,12 +19,12 @@ header nav ul li a {
   text-transform: uppercase;
 }
 
-div {
+article {
   border-radius: 5px #F0A6CA solid;
   background-image: url(../imagenes/th.jpg);
   padding: 30px;
 }
-div h1 {
+article h1 {
   font-family: fantasy;
   font-size: 80px;
   color: #4c1c5e;
@@ -32,6 +32,24 @@ div h1 {
   border: 4px white solid;
   background-color: #d7c6f1;
   padding-top: 10px;
+}
+
+body {
+  background-color: #A08FBA;
+  padding: 90px 20px 0;
+  box-sizing: border-box;
+}
+
+section {
+  background-color: #d7c6f1;
+  padding: 30px;
+}
+section p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: italic;
+  color: #4c1c5e;
 }
 
 /*# sourceMappingURL=estilo.css.map */
