@@ -1,0 +1,15 @@
+div {
+    border-radius: $bordes-titulo;
+    background-image: url(../imagenes/th.jpg);
+    padding: 30px;
+    
+    h1 {
+       font-family: fantasy;
+       font-size: $tam-fontitulo + 30px;
+       color: $color-titulo;
+       text-align: center;
+       border: 4px white solid;
+       background-color: #d7c6f1;
+       padding-top: 10px;
+    }
+}

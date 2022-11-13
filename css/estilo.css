@@ -1,3 +1,37 @@
+header nav {
+  background-color: #6c4f96;
+  height: 80px;
+  width: 100%;
+}
+header nav ul {
+  float: right;
+  margin-right: 20px;
+}
+header nav ul li {
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+header nav ul li a {
+  color: white;
+  font-size: 25px;
+  padding: 7px 13px;
+  text-transform: uppercase;
+}
 
+div {
+  border-radius: 5px #F0A6CA solid;
+  background-image: url(../imagenes/th.jpg);
+  padding: 30px;
+}
+div h1 {
+  font-family: fantasy;
+  font-size: 80px;
+  color: #4c1c5e;
+  text-align: center;
+  border: 4px white solid;
+  background-color: #d7c6f1;
+  padding-top: 10px;
+}
 
 /*# sourceMappingURL=estilo.css.map */
