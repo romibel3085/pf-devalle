@@ -52,4 +52,37 @@ section p {
   color: #4c1c5e;
 }
 
+main {
+  background-color: #A08FBA;
+  width: auto;
+  padding-top: 20px;
+}
+main ul {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  padding: 15px;
+  list-style-type: none;
+}
+main ul div {
+  border: #6c4f96 solid 5px;
+  border-radius: 5px;
+}
+main ul div h3 {
+  font-size: 35px;
+  font-family: fantasy;
+  color: #973db8;
+  text-align: center;
+}
+main ul div p {
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  font-style: italic;
+  color: #4c1c5e;
+}
+main ul div p:hover {
+  background-color: #c8b1d3;
+}
+
 /*# sourceMappingURL=estilo.css.map */
