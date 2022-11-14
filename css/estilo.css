@@ -33,6 +33,15 @@ article h1 {
   background-color: #d7c6f1;
   padding-top: 10px;
 }
+article h2 {
+  font-family: fantasy;
+  font-size: 50px;
+  font-weight: bold;
+  color: #4c1c5e;
+  border: 4px white solid;
+  background-color: #d7c6f1;
+  padding-top: 10px;
+}
 
 body {
   background-color: #A08FBA;
