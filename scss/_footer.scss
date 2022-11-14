@@ -1,0 +1,20 @@
+footer {
+    border: $borde-footer;
+    background-color: $color-fondonav;
+    text-align: center;
+    height: 80px;
+    margin-top: 200px;
+
+    h4 {
+        font-family: "manuscrita";
+    font-size: 20px;
+    color: #31063a;
+    padding-top: 20px;
+    
+    &:hover {
+        color: #d7c6f1;
+    }
+
+    }
+   
+}

@@ -60,6 +60,16 @@ section p {
   font-style: italic;
   color: #4c1c5e;
 }
+section h5 {
+  text-align: center;
+  font-family: fantasy;
+  color: white;
+  font-size: 20px;
+  border: #A08FBA 5px solid;
+  border-radius: 10px;
+  background-color: #6c4f96;
+  padding-top: 6px;
+}
 
 main {
   background-color: #A08FBA;
@@ -101,6 +111,14 @@ aside h3 {
   text-align: center;
   background-color: #c8b1d3;
 }
+aside h6 {
+  font-family: "manuscrita";
+  font-size: 20px;
+  color: #4c1c5e;
+  text-align: center;
+  padding-top: 50px;
+  margin-bottom: 25px;
+}
 
 iframe {
   width: 800px;
@@ -108,6 +126,23 @@ iframe {
   border: 5px #F0A6CA solid;
   justify-content: center;
   padding: auto;
+}
+
+footer {
+  border: #A08FBA 5px solid;
+  background-color: #6c4f96;
+  text-align: center;
+  height: 80px;
+  margin-top: 200px;
+}
+footer h4 {
+  font-family: "manuscrita";
+  font-size: 20px;
+  color: #31063a;
+  padding-top: 20px;
+}
+footer h4:hover {
+  color: #d7c6f1;
 }
 
 /*# sourceMappingURL=estilo.css.map */
