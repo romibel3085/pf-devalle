@@ -1,0 +1,19 @@
+
+aside {
+    h3 {
+        font-size: $tam-fontitulo;
+        font-family: fantasy;
+        color: $color-titulo;
+        text-align: center;
+        background-color: $color-fondocursor;
+    }
+}
+iframe {
+    width: 800px;
+    height: 500px;
+    border: $bordes-titulo;
+    justify-content: center;
+    padding: auto;
+    
+    
+}
