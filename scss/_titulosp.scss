@@ -1,10 +1,13 @@
+
+
+
 article {
     border-radius: $bordes-titulo;
     background-image: url(../imagenes/th.jpg);
     padding: 30px;
     
     h1 {
-       font-family: fantasy;
+        font-family: 'Fredoka One', cursive;
        font-size: $tam-fontitulo + 30px;
        color: $color-titulo;
        text-align: center;
@@ -13,7 +16,7 @@ article {
        padding-top: 10px;
     }
     h2 {
-        font-family: fantasy;
+        font-family: 'Fredoka One', cursive;
         font-size:$tam-fontitulo;
         font-weight: bold;
         color:$color-titulo;

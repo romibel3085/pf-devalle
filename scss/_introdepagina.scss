@@ -12,12 +12,17 @@ section {
 
     h5 {
         text-align: center;
-        font-family: fantasy;
+        font-family: 'Fredoka One', cursive;
         color: white;
         font-size: 20px;
         border: $borde-footer;
         border-radius: 10px;
         background-color: $color-fondonav;
         padding-top: 6px;
+    }
+
+    img { 
+        width: 900px;
+        height: 800px;
     }
 }
