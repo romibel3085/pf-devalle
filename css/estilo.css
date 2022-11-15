@@ -1,8 +1,18 @@
 nav {
   background-color: #A08FBA;
 }
+nav div .navbar-brand {
+  font-size: 30px;
+  color: white;
+  font-family: "Fredoka One", cursive;
+}
 nav div li {
   background-color: #d39cd8;
+}
+nav div li .nav-link {
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
 }
 nav div li a {
   font-size: 25px;

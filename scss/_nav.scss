@@ -2,13 +2,23 @@ nav {
     background-color:$color-fondomenu;
     
     div {
+       .navbar-brand {
+          font-size: 30px;
+          color: $color-fuentenav;
+          font-family: 'Fredoka One', cursive; 
+       }
         li {
             background-color: $color-fondonav;
+
+            .nav-link {
+                font-size: $tam-navfont;
+                font-weight: bold;
+                color: $color-fuentenav;
+            }
             
 
             a{
                 font-size: $tam-navfont;
-                
                 font-weight: bolder;
                 font-style: italic;
                 color: $color-titulo;
