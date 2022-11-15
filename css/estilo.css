@@ -1,22 +1,14 @@
-header nav {
-  background-color: #6c4f96;
-  height: 80px;
-  width: 100%;
+nav {
+  background-color: #A08FBA;
 }
-header nav ul {
-  float: right;
-  margin-right: 20px;
+nav div li {
+  background-color: #d39cd8;
 }
-header nav ul li {
-  display: inline-block;
-  line-height: 80px;
-  margin: 0 5px;
-}
-header nav ul li a {
-  color: white;
+nav div li a {
   font-size: 25px;
-  padding: 7px 13px;
-  text-transform: uppercase;
+  font-weight: bolder;
+  font-style: italic;
+  color: #4c1c5e;
 }
 
 article {
@@ -67,7 +59,7 @@ section h5 {
   font-size: 20px;
   border: #A08FBA 5px solid;
   border-radius: 10px;
-  background-color: #6c4f96;
+  background-color: #d39cd8;
   padding-top: 6px;
 }
 section img {
@@ -94,7 +86,7 @@ main ul div {
 main ul div h3 {
   font-size: 35px;
   font-family: "Fredoka One", cursive;
-  color: #973db8;
+  color: #743c88;
   text-align: center;
 }
 main ul div p {
@@ -134,7 +126,7 @@ iframe {
 
 footer {
   border: #A08FBA 5px solid;
-  background-color: #6c4f96;
+  background-color: #d39cd8;
   text-align: center;
   height: 80px;
   margin-top: 200px;
