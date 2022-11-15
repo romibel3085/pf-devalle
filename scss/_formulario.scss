@@ -1,0 +1,15 @@
+form {
+    border: $bordes-titulo;
+    border-radius: 5px;
+    background-color:$color-fondocursor;
+    margin: auto;
+    padding: 30px;
+    width: 300px;
+    margin-top: 100px;
+
+    label {
+        font-size: 25px;
+        font-family: "manuscrita";
+        font-weight: bold;
+    }
+}
